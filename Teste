@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<HTML LANG="PT-BR">
+<HEAD>
+<META CHARSET = "UTF-8"/>
+<TITLE>
+IMAGEM DE FUNDO
+</TITLE>
+<STYLE>
+h1{
+font-family:Helvetica;
+font-size:60pt;
+text-align:center;
+color:black;
+background: 4px solid black;
+}
+body{
+background-image: url(images.jpeg);
+color:aliceblue;
+font-family:arial;
+font-size:20pt;
+background-repeat: no-repeat;
+background-size: cover;
+}
+</HEAD>
+<BODY>
+<P> Inserir o título da Lista </P>
+📢!!!Aqui você deverá inserir o código da lista, utilizando a tag necessária.!!! 📢
+</BODY>
+</HTML>
